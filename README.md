@@ -17,31 +17,4 @@ To develop and test the extension, you need to open the "about:debugging" page i
 Further documentation about developing Firefox extensions can be found [here](https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension).
 
 ## Release Notes
-### Version 3.1
-* **[FIXED]** Patched security issue
-* **[FIXED]** Patched UI issue
-
-### Version 3.0
-* **[FIXED]** Fixed button not appearing on toolbar
-* **[CHANGED]** User interface redesign
-* **[CHANGED]** Converted to web extension
-* **[NEW]** Special characters added
-
-### Version 2.1
-* **[FIXED]** Repaired character encoding code
-
-### Version 2.0
-* **[CHANGED]** Replaced check boxes with buttons
-* **[CHANGED]** Background and button colors changed to a grey theme
-* **[NEW]** Text field placeholders added
-* **[CHANGED]** Add-on popup window resized
-* **[CHANGED]** Icon changed
-* **[NEW]** A reset button added
-* **[CHANGED]** Security message changed
-* **[CHANGED]** Font and font sizes changed
-
-### Version 1.1.1
-* **[FIXED]** Add-on removed from the Firefox context menu
-
-### Version 1.0.1
-No release notes for this version
+Release notes can be found on [this GitHub repository](https://github.com/WesleyBranton/P-Key-Password-Generator/releases) or [the Firefox add-ons listing](https://addons.mozilla.org/firefox/addon/password-generator/versions/).
